@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://skyone.zetmel.com/sitemap-index.xml
+Sitemap: https://skyonemarketing.lk/sitemap-index.xml
